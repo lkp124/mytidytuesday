@@ -6,7 +6,7 @@ Thanks for checking out my #TidyTuesday projects. I hope to get your feedback on
 
 ![Image description](https://github.com/lkp124/mytidytuesday/blob/master/TBI_03_27/TBI_03_27.gif)
 
-# Week 14(03-31-2020): Beer Production 
+# Week 14 (03-31-2020): Beer Production 
 
 ![Image description](https://github.com/lkp124/mytidytuesday/blob/master/Beer_04_04/04_04.gif)
 
