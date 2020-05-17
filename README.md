@@ -24,4 +24,4 @@ Thanks for checking out my #TidyTuesday projects. I hope to get your feedback on
 
 # Week 20 (05-12-2020): Volcanoes
 
-![Image description] (https://github.com/lkp124/mytidytuesday/blob/master/volcanoes_05_14/volcano.png)
+![Image description](https://github.com/lkp124/mytidytuesday/blob/master/volcanoes_05_14/volcano.png)
