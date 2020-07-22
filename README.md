@@ -28,4 +28,4 @@ Thanks for checking out my #TidyTuesday projects. I hope to get your feedback on
 
 # Week 30 (07-21-2020): Australian Animals
 
-![Image description] (https://github.com/lkp124/mytidytuesday/blob/master/Aussie_Animals/animal_poop.png)
+![Image description](https://github.com/lkp124/mytidytuesday/blob/master/Aussie_Animals/animal_poop.png)
